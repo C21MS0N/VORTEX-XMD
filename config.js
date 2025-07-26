@@ -14,9 +14,9 @@ module.exports = {
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "",
-    OWNER_NAME: process.env.OWNER_NAME || "HansTech",
-    DEV: process.env.DEV || "255614195217",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "2349075268689",
+    OWNER_NAME: process.env.OWNER_NAME || "CRIMSON",
+    DEV: process.env.DEV || "2349075268689",
 
     // ==============================
     //         ANTI CALL
@@ -46,7 +46,7 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     AUTO_TYPING: process.env.AUTO_TYPING || "false",
-    READ_CMD: process.env.READ_CMD || "false",
+    READ_CMD: process.env.READ_CMD || "true",
     AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
     
     // ==============================
@@ -66,18 +66,18 @@ module.exports = {
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY  𝕂𝕌ℝ𝕀𝕄𝕌ℤ𝕆ℕ♦️*",
     
     // ==============================
     //      BOT APPEARANCE
     // ==============================
-    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/di5kdx.jpg",
+    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://cdn.pfps.gg/pfps/1481-goku-manga-user-picture.png",
     PREFIX: process.env.PREFIX || ".",
-    BOT_NAME: process.env.BOT_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
-    STICKER_NAME: process.env.STICKER_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/di5kdx.jpg",
-    LIVE_MSG: process.env.LIVE_MSG || "> 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃⚡ IS ALIVE",
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ HansTech*",
+    BOT_NAME: process.env.BOT_NAME || " 𝕂𝕌ℝ𝕀𝕄𝕌ℤ𝕆ℕ♦️",
+    STICKER_NAME: process.env.STICKER_NAME || " 𝕂𝕌ℝ𝕀𝕄𝕌ℤ𝕆ℕ♦️",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://pbs.twimg.com/media/GIH2XTtWgAAzGR-.jpg",
+    LIVE_MSG: process.env.LIVE_MSG || "> 𝕂𝕌ℝ𝕀𝕄𝕌ℤ𝕆ℕ♦️ IS ALIVE",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Cᵣᵢₘₛₒₙ*",
 
     // ==============================
     //         REACTIONS
